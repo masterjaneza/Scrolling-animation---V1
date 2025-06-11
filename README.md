@@ -17,6 +17,27 @@ This project is a functional (but not fancy) demo of scroll-triggered animations
 - Renders 60 `.block` elements inside a `.view` container.
 
 
+
+---
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/masterjaneza/Horizontal-Scroll-Gallery---V1.git
+
+**Open the Project:**
+
+- Open `index.html` in your browser  
+  **or**
+- Use **Live Server** in VS Code.
+--- 
+
+---
+
+
 --- 
 
 ## 🧪 License
